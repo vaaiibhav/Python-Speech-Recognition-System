@@ -1,2 +1,3 @@
-# Python Speech Recognition System
- Python Speech Recognition using MFCC and melfb and Neural Networks Training.
+# Speech-Recognition-System
+
+using Matlab (CS 890DR - Pattern Classification)
